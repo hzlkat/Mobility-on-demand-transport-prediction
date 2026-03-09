@@ -1,4 +1,4 @@
-# New York City Taxi Demand Prediction
+# Mobility on-demand transport prediction
 
 The "New York City (NYC) taxi demand prediction" project is part of the master thesis titled "Predicting On-Demand Transport Requests with Machine Learning Algorithms".
 
